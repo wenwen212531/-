@@ -1,5 +1,6 @@
 # -
 五子棋游戏的设计
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
